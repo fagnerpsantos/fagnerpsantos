@@ -17,12 +17,6 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerpsantos&layout=compact&theme=radical"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=fagnerpsantos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
