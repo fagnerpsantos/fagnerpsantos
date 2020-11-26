@@ -13,7 +13,7 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
